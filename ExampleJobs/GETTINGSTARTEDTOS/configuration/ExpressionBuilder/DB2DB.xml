@@ -1,0 +1,31 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore">
+  <expression:EMFExpression id="null=>out1=>extended_price" expression="row1.quantity*row1.price">
+    <variables name="row1.product_id" value="0" talendType="id_Integer"/>
+    <variables name="row1.product_name" value="null" talendType="id_String" nullable="true"/>
+    <variables name="row1.price" value="null" talendType="id_Float" nullable="true"/>
+    <variables name="row1.brand" value="null" talendType="id_String"/>
+    <variables name="row1.order_id" value="0" talendType="id_Long"/>
+    <variables name="row1.order_date" value="null" talendType="id_Date"/>
+    <variables name="row1.order_value" value="0" talendType="id_Float"/>
+    <variables name="row1.order_status" value="null" talendType="id_String"/>
+    <variables name="row1.line_id" value="0" talendType="id_Long"/>
+    <variables name="row1.quantity" value="0" talendType="id_Long"/>
+  </expression:EMFExpression>
+  <expression:EMFExpression id="null=>order_data=>extended_price" expression="order_lines.quantity*products.price">
+    <variables name="order_lines.id" value="0" talendType="id_Long"/>
+    <variables name="order_lines.order_id" value="0" talendType="id_Long"/>
+    <variables name="order_lines.product_id" value="0" talendType="id_Long"/>
+    <variables name="order_lines.quantity" value="0" talendType="id_Long"/>
+    <variables name="orders.id" value="0" talendType="id_Long"/>
+    <variables name="orders.order_date" value="null" talendType="id_Date"/>
+    <variables name="orders.order_value" value="0" talendType="id_Float"/>
+    <variables name="orders.order_status" value="null" talendType="id_String"/>
+    <variables name="products.product_id" value="0" talendType="id_Integer"/>
+    <variables name="products.product_name" value="null" talendType="id_String" nullable="true"/>
+    <variables name="products.price" value="null" talendType="id_Float" nullable="true"/>
+    <variables name="brands.id" value="0" talendType="id_Long"/>
+    <variables name="brands.product_id" value="0" talendType="id_Long"/>
+    <variables name="brands.brand" value="null" talendType="id_String"/>
+  </expression:EMFExpression>
+</xmi:XMI>

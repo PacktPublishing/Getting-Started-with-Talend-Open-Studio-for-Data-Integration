@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_hhfikB__EeK5Nfov2ye6Wg" name="repository.metadataFileExcel" dataPackage="_hhfikR__EeK5Nfov2ye6Wg" Server="Localhost 127.0.0.1" FilePath="C:/Talend/Workspace/GETTINGSTARTED/DataIn/Chapter3/customers.xls" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="addresses" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="addresses:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_hhfikR__EeK5Nfov2ye6Wg" name="repository.metadataFileExcel" dataManager="_hhfikB__EeK5Nfov2ye6Wg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_hhfikh__EeK5Nfov2ye6Wg" id="_N5sckB__EeK5Nfov2ye6Wg" label="customer_addresses">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hhfikx__EeK5Nfov2ye6Wg" label="customer_id" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_hhfilB__EeK5Nfov2ye6Wg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hhfilR__EeK5Nfov2ye6Wg" label="address1" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_hhfilh__EeK5Nfov2ye6Wg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hhfilx__EeK5Nfov2ye6Wg" label="city" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_hhfimB__EeK5Nfov2ye6Wg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hhfimR__EeK5Nfov2ye6Wg" label="postcode" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_hhfimh__EeK5Nfov2ye6Wg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hhfimx__EeK5Nfov2ye6Wg" label="telephone_number" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_hhfinB__EeK5Nfov2ye6Wg"/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

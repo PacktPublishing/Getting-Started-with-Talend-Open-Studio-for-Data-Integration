@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_rYRvkCABEeK5Nfov2ye6Wg" name="repository.metadataFileDelimited" dataPackage="_rYRvkSABEeK5Nfov2ye6Wg" Server="Localhost 127.0.0.1" FilePath="C:/Talend/Workspace/GETTINGSTARTED/DataIn/Chapter4/DB_IN_UPDATE.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_rYRvkSABEeK5Nfov2ye6Wg" name="repository.metadataFileDelimited" dataManager="_rYRvkCABEeK5Nfov2ye6Wg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_rYRvkiABEeK5Nfov2ye6Wg" id="_6uvxYNShEeGju9Il3CGptg" label="product_update">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rYRvkyABEeK5Nfov2ye6Wg" label="product_id" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_rYRvlCABEeK5Nfov2ye6Wg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rYRvlSABEeK5Nfov2ye6Wg" label="product_name" length="36" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_rYRvliABEeK5Nfov2ye6Wg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rYRvlyABEeK5Nfov2ye6Wg" label="price" length="10" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;" originalLength="10">
+        <initialValue xmi:id="_rYRvmCABEeK5Nfov2ye6Wg"/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

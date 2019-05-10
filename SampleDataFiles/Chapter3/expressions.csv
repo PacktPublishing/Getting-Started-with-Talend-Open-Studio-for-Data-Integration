@@ -1,0 +1,5 @@
+CustomerID;FirstName;LastName;Address1;Address2;TownCity;County;Postcode;Telephone
+1;John;Black;123 North Street;West Hill;Nottingham;Nottinghamshire;NG1 3RD;01153213333
+2;Joan;Grey;45 South Drive;;Manchester;Greater Manchester;M32 4RT;0161-564-8974
+3;Bill;Brown;78 West Avenue;The Green;Birmingham;West Midlands;B22 5TG;0121fr 635** 5656
+4;Mary;White;99 East Boulevard;Highgate;Brighton;Sussex;BN21 3DD;01273 323232

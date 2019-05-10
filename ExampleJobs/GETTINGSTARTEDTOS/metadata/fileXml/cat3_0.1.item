@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:XmlFileConnection xmi:id="_1SfSUAC6EeKGy6nssHruwg" name="repository.metadataFileXml" dataPackage="_1SfSVwC6EeKGy6nssHruwg" XmlFilePath="C:/Users/jbowen/Desktop/book/catalogue (2).xml" Encoding="UTF-8">
+    <schema xmi:id="_1SfSUQC6EeKGy6nssHruwg" LimitBoucle="50" AbsoluteXPathQuery="/catalogue/sku">
+      <schemaTargets xmi:id="_1SfSUgC6EeKGy6nssHruwg" RelativeXPathQuery="skuid" TagName="skuid"/>
+      <schemaTargets xmi:id="_1SfSUwC6EeKGy6nssHruwg" RelativeXPathQuery="skuname" TagName="skuname"/>
+      <schemaTargets xmi:id="_1SfSVAC6EeKGy6nssHruwg" RelativeXPathQuery="size" TagName="size"/>
+      <schemaTargets xmi:id="_1SfSVQC6EeKGy6nssHruwg" RelativeXPathQuery="colour" TagName="colour"/>
+      <schemaTargets xmi:id="_1SfSVgC6EeKGy6nssHruwg" RelativeXPathQuery="price" TagName="price"/>
+    </schema>
+  </TalendMetadata:XmlFileConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_1SfSVwC6EeKGy6nssHruwg" name="repository.metadataFileXml" dataManager="_1SfSUAC6EeKGy6nssHruwg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_1SfSWAC6EeKGy6nssHruwg" id="_xxreAAC6EeKGy6nssHruwg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1SfSWQC6EeKGy6nssHruwg" label="skuid" length="10" talendType="id_Long" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1SfSWgC6EeKGy6nssHruwg" label="skuname" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1SfSWwC6EeKGy6nssHruwg" label="size" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1SfSXAC6EeKGy6nssHruwg" label="colour" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1SfSXQC6EeKGy6nssHruwg" label="price" length="5" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

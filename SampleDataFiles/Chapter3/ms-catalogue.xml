@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogue>
+  <skus>
+    <sku>
+      <skuid>432345</skuid>
+      <skuname>Check Shirt</skuname>
+      <size>S</size>
+      <colour>Green</colour>
+      <price>29.99</price>
+    </sku>
+    <sku>
+      <skuid>432346</skuid>
+      <skuname>Check Shirt</skuname>
+      <size>M</size>
+      <colour>Green</colour>
+      <price>29.99</price>
+    </sku>
+    <sku>
+      <skuid>432347</skuid>
+      <skuname>Check Shirt</skuname>
+      <size>L</size>
+      <colour>Green</colour>
+      <price>29.99</price>
+    </sku>
+    <sku>
+      <skuid>432348</skuid>
+      <skuname>Check Shirt</skuname>
+      <size>XL</size>
+      <colour>Green</colour>
+      <price>29.99</price>
+    </sku>
+    <sku>
+      <skuid>432349</skuid>
+      <skuname>Check Shirt</skuname>
+      <size>XXL</size>
+      <colour>Green</colour>
+      <price>29.99</price>
+    </sku>
+    <sku>
+      <skuid>432350</skuid>
+      <skuname>Striped Shirt</skuname>
+      <size>S</size>
+      <colour>Blue</colour>
+      <price>39.99</price>
+    </sku>
+    <sku>
+      <skuid>432351</skuid>
+      <skuname>Striped Shirt</skuname>
+      <size>M</size>
+      <colour>Blue</colour>
+      <price>39.99</price>
+    </sku>
+    <sku>
+      <skuid>432352</skuid>
+      <skuname>Striped Shirt</skuname>
+      <size>L</size>
+      <colour>Blue</colour>
+      <price>39.99</price>
+    </sku>
+    <sku>
+      <skuid>432353</skuid>
+      <skuname>Striped Shirt</skuname>
+      <size>XL</size>
+      <colour>Blue</colour>
+      <price>39.99</price>
+    </sku>
+    <sku>
+      <skuid>432354</skuid>
+      <skuname>Striped Shirt</skuname>
+      <size>XXL</size>
+      <colour>Blue</colour>
+      <price>39.99</price>
+    </sku>
+  </skus>
+  <inventory>
+    <sku>
+      <skuid>432345</skuid>
+      <stock_on_hand>12</stock_on_hand>
+    </sku>
+    <sku>
+      <skuid>432346</skuid>
+      <stock_on_hand>32</stock_on_hand>
+    </sku>
+    <sku>
+      <skuid>432347</skuid>
+      <stock_on_hand>4</stock_on_hand>
+    </sku>
+    <sku>
+      <skuid>432348</skuid>
+      <stock_on_hand>21</stock_on_hand>
+    </sku>
+    <sku>
+      <skuid>432349</skuid>
+      <stock_on_hand>18</stock_on_hand>
+    </sku>
+    <sku>
+      <skuid>432350</skuid>
+      <stock_on_hand>10</stock_on_hand>
+    </sku>
+    <sku>
+      <skuid>432351</skuid>
+      <stock_on_hand>22</stock_on_hand>
+    </sku>
+    <sku>
+      <skuid>432352</skuid>
+      <stock_on_hand>9</stock_on_hand>
+    </sku>
+    <sku>
+      <skuid>432353</skuid>
+      <stock_on_hand>5</stock_on_hand>
+    </sku>
+    <sku>
+      <skuid>432354</skuid>
+      <stock_on_hand>13</stock_on_hand>
+    </sku>
+  </inventory>
+</catalogue>

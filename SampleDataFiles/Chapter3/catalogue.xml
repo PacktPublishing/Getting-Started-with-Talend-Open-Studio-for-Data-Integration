@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+	<sku>
+		<skuid>1233212406</skuid>
+		<skuname>Summer Dress</skuname>
+		<size>6</size>
+		<colour>Green</colour>
+		<price>39.99</price>
+	</sku>
+	<sku>
+		<skuid>1233212408</skuid>
+		<skuname>Summer Dress</skuname>
+		<size>8</size>
+		<colour>Green</colour>
+		<price>39.99</price>
+	</sku>
+	<sku>
+		<skuid>1233212410</skuid>
+		<skuname>Summer Dress</skuname>
+		<size>10</size>
+		<colour>Green</colour>
+		<price>39.99</price>
+	</sku>
+	<sku>
+		<skuid>1233212412</skuid>
+		<skuname>Summer Dress</skuname>
+		<size>12</size>
+		<colour>Green</colour>
+		<price>39.99</price>
+	</sku>
+	<sku>
+		<skuid>1233212414</skuid>
+		<skuname>Summer Dress</skuname>
+		<size>14</size>
+		<colour>Green</colour>
+		<price>39.99</price>
+	</sku>
+	<sku>
+		<skuid>1233212416</skuid>
+		<skuname>Summer Dress</skuname>
+		<size>16</size>
+		<colour>Green</colour>
+		<price>39.99</price>
+	</sku>
+	<sku>
+		<skuid>3455437806</skuid>
+		<skuname>Cotton Skirt</skuname>
+		<size>6</size>
+		<colour>Pink</colour>
+		<price>29.99</price>
+	</sku>
+	<sku>
+		<skuid>3455437808</skuid>
+		<skuname>Cotton Skirt</skuname>
+		<size>8</size>
+		<colour>Pink</colour>
+		<price>29.99</price>
+	</sku>
+	<sku>
+		<skuid>3455437810</skuid>
+		<skuname>Cotton Skirt</skuname>
+		<size>10</size>
+		<colour>Pink</colour>
+		<price>29.99</price>
+	</sku>
+	<sku>
+		<skuid>3455437812</skuid>
+		<skuname>Cotton Skirt</skuname>
+		<size>12</size>
+		<colour>Pink</colour>
+		<price>29.99</price>
+	</sku>
+	<sku>
+		<skuid>3455437814</skuid>
+		<skuname>Cotton Skirt</skuname>
+		<size>14</size>
+		<colour>Pink</colour>
+		<price>29.99</price>
+	</sku>
+	<sku>
+		<skuid>3455437816</skuid>
+		<skuname>Cotton Skirt</skuname>
+		<size>16</size>
+		<colour>Pink</colour>
+		<price>29.99</price>
+	</sku>
+</catalogue>

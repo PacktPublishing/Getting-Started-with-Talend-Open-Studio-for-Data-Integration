@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_B7arsCAKEeK5Nfov2ye6Wg" name="repository.metadataFileDelimited" dataPackage="_B7arsSAKEeK5Nfov2ye6Wg" Server="Localhost 127.0.0.1" FilePath="C:/Talend/Workspace/GETTINGSTARTED/DataIn/Chapter5/categories-to-denormalize.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_B7arsSAKEeK5Nfov2ye6Wg" name="repository.metadataFileDelimited" dataManager="_B7arsCAKEeK5Nfov2ye6Wg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_B7arsiAKEeK5Nfov2ye6Wg" id="_6k80cCAJEeK5Nfov2ye6Wg" label="categories-to-denormalize">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_B7arsyAKEeK5Nfov2ye6Wg" label="product_id" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_B7artCAKEeK5Nfov2ye6Wg" label="category" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

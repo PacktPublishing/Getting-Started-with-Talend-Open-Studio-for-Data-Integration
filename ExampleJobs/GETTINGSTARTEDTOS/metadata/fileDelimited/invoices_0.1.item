@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_X7SRwCAJEeK5Nfov2ye6Wg" name="repository.metadataFileDelimited" dataPackage="_X7SRwSAJEeK5Nfov2ye6Wg" Server="Localhost 127.0.0.1" FilePath="C:/Talend/Workspace/GETTINGSTARTED/DataIn/Chapter5/invoices.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_X7SRwSAJEeK5Nfov2ye6Wg" name="repository.metadataFileDelimited" dataManager="_X7SRwCAJEeK5Nfov2ye6Wg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_X7SRwiAJEeK5Nfov2ye6Wg" id="_EPcIYPNKEeGrYawhYgAtAQ" label="invoices">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_X7SRwyAJEeK5Nfov2ye6Wg" label="invoice_number" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_X7SRxCAJEeK5Nfov2ye6Wg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_X7SRxSAJEeK5Nfov2ye6Wg" label="customer_name" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_X7SRxiAJEeK5Nfov2ye6Wg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_X7SRxyAJEeK5Nfov2ye6Wg" label="invoice_value" length="8" precision="2" talendType="id_BigDecimal" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_X7SRyCAJEeK5Nfov2ye6Wg"/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

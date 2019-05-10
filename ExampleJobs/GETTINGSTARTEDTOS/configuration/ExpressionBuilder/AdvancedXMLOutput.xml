@@ -1,0 +1,9 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="null=>xml_output=>dispatch_date" expression="TalendDate.getCurrentDate()">
+  <variables name="row1.order_id" value="0" talendType="id_Integer"/>
+  <variables name="row1.line_id" value="0" talendType="id_Integer"/>
+  <variables name="row1.sku" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.quantity" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.shipping_status" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.courier_docket_code" value="null" talendType="id_String" nullable="true"/>
+</expression:EMFExpression>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_jqZGARqfEeKDQ_s1qwojdg" name="repository.metadataFileDelimited" dataPackage="_jqZGAhqfEeKDQ_s1qwojdg" Server="Localhost 127.0.0.1" FilePath="C:/Talend/Workspace/GETTINGSTARTED/DataIn/Chapter3/csv2xml-catalogue.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_jqZGAhqfEeKDQ_s1qwojdg" name="repository.metadataFileDelimited" dataManager="_jqZGARqfEeKDQ_s1qwojdg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_jqZGAxqfEeKDQ_s1qwojdg" id="_S54WMBqfEeKDQ_s1qwojdg" label="csv_catalogue">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jqZGBBqfEeKDQ_s1qwojdg" label="skuid" length="10" talendType="id_Long" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jqZGBRqfEeKDQ_s1qwojdg" label="skuname" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jqZGBhqfEeKDQ_s1qwojdg" label="size" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jqZGBxqfEeKDQ_s1qwojdg" label="colour" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jqZGCBqfEeKDQ_s1qwojdg" label="price" length="5" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
