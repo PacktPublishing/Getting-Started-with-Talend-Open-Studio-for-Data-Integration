@@ -10,14 +10,14 @@ This is the code repository for [Getting Started with Talend Open Studio for Dat
 Talend Open Studio for Data Integration (TOS) is an open source graphical development environment for creating custom integrations between systems. It comes with over 600 pre-built connectors that make it quick and easy to connect databases, transform files, load data, move, copy and rename files and connect individual components in order to define complex integration processes.
 
 This book covers the following exciting features:
-How to transform data files from one format to another 
-Getting data in and out of a relational database 
-Using common data operations such as filtering, sorting and aggregating 
-Managing files – moving, copying, renaming and deleting 
-Adding flow logic to integration jobs, including “if/then” operations and sequence dependencies 
-How to use dynamic variables, avoiding hard-coded routines 
-Using TOS in real-life scenarios with lots of tips and tricks 
-Learn how to integrate data to and from many different sources 
+* How to transform data files from one format to another 
+* Getting data in and out of a relational database 
+* Using common data operations such as filtering, sorting and aggregating 
+* Managing files – moving, copying, renaming and deleting 
+* Adding flow logic to integration jobs, including “if/then” operations and sequence dependencies 
+* How to use dynamic variables, avoiding hard-coded routines 
+* Using TOS in real-life scenarios with lots of tips and tricks 
+* Learn how to integrate data to and from many different sources 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1849514720) today!
 
