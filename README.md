@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/getting-started-with-talend-open-studio-for-data-integration/9781849514729)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1849514720).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Getting Started with Talend Open Studio for Data Integration
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/getting-started-talend-open-studio-data-integration?utm_source=github&utm_medium=repository&utm_campaign=9781849514729 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/4729OS%20Getting%20Started%20with%20Talend%20Open%20Studio_cov.jpg" alt="Getting Started with Talend Open Studio for Data Integration" height="256px" align="right"></a>
